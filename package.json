@@ -1,0 +1,28 @@
+{
+  "name": "light-three-viewer",
+  "version": "1.0.0",
+  "description": "A tiny component to use in react or html pages to render 3d models using three.js",
+  "main": "dist/ModelRenderer.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEMing/light-three-viewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LEMing/light-three-viewer/issues"
+  },
+  "homepage": "https://github.com/LEMing/light-three-viewer#readme",
+  "dependencies": {
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.157.2",
+    "typescript": "^5.2.2"
+  }
+}
